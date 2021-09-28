@@ -1,7 +1,7 @@
 <template>
 <div class="container-img">
 
-  <img class="img-formatting" src="../assets/Big_chungus.png" alt="jumbotron img">
+  <img class="img-formatting" src="../assets/Big_Chungus.png" alt="jumbotron img">
 
 </div>
 </template>
